@@ -7,7 +7,7 @@ I am a self-motivated and passionate front-end developer with experience in buil
 <!-- 🔭 I’m currently working on a ...-->
 - 🌱 I’m currently learning React Js...
 - 👯 I'll love to collaborate with designers and developers in creating well-optimized and problem-solving apps...
-- 🤔 I’m looking frontend development roles.
+- 🤔 I’m looking for frontend development roles.
 - 💬 Ask me about anything.
 - 📫 How to reach me: Send a mail to abdrzq.salihu@gmail.com.
 - 😄 Pronouns: He/him.
