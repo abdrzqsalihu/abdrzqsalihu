@@ -24,7 +24,6 @@ I am a self-motivated and passionate front-end developer with experience in buil
 
 
 ### You can reach me on
-- [Blog](https://coaxtech.hashnode.dev/)
 - [Twitter](https://twitter.com/abdrzqsalihu)
 - [LinkedIn](https://www.linkedin.com/in/abdrzqsalihu/)
 
