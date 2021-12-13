@@ -24,6 +24,7 @@ I am a self-motivated and passionate front-end developer with experience in buil
 
 
 ### Get in touch :sparkles:
+- [Portfolio](https://abdrzqsalihu.netlify.app/)
 - [Blog](https://coaxtech.hashnode.dev/)
 - [GitHub](https://github.com/abdrzqsalihu)
 - [Facebook](https://www.facebook.com/abdrzqsalihu)
