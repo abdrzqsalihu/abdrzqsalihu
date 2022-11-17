@@ -20,7 +20,11 @@ I am a self-motivated and passionate Software developer with experience in build
 ![Abdulrazaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdrzqsalihu&show_icons=true&theme=cobalt)![Abdulrazaq's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdrzqsalihu&theme=cobalt)<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abdrzqsalihu&title_color=47ff78&text_color=efefed&icon_color=47ff78&bg_color=0b0b0c&line_height=27">
 
 
+[![Abdulrazaq's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdrzqsalihu&theme=cobalt)](https://git.io/praveenscience)
 
+| ![Abdulrazaq's github stats](https://github-readme-stats.vercel.app/api?username=abdrzqsalihu&show_icons=true&theme=tokyonight) | ![Abdulraxaq's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdrzqsalihu&theme=cobalt) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdrzqsalihu&theme=cobalt) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=abdrzqsalihu&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=cobalt) |
 
 
 
