@@ -17,7 +17,7 @@ I am a self-motivated and passionate Software developer with experience in build
 
 <!-- [![Abdulrazaq's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdrzqsalihu&theme=cobalt)](https://git.io/praveenscience) -->
 
- ![Abdulrazaq's github stats](https://github-readme-stats.vercel.app/api?username=abdrzqsalihu&show_icons=true&theme=cobalt) ![Abdulraxaq's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdrzqsalihu&theme=cobalt) 
+ ![Abdulrazaq's github stats](https://github-readme-stats.vercel.app/api?username=abdrzqsalihu&show_icons=true&theme=cobalt)![Abdulraxaq's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdrzqsalihu&theme=cobalt) 
 <!-- | --- | --- | -->
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdrzqsalihu&theme=cobalt&card_width=1000) 
 <!-- ![Github Stars](https://github-readme-stats.vercel.app/api?username=abdrzqsalihu&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=cobalt) -->
