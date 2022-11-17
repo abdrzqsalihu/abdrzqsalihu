@@ -11,7 +11,7 @@ I am a self-motivated and passionate Software developer with experience in build
 - 💬 Ask me about anything.
 - 📫 How to reach me: Send a mail to abdrzq.salihu@gmail.com.
 - 😄 Pronouns: He/him.
-- ⚡ Fun fact: The deepest form of motivation is intrinsic and only you can give it to yourself.
+- ⚡ Fun fact: I share Tech content on Twitter & Linkedin
 
 <!--[![Abdulrazaq's GitHub stats]
 (https://github-readme-stats.vercel.app/api?username=abdrzqsalihu)](https://github.com/abdrzqsalihu/github-readme-stats)-->
