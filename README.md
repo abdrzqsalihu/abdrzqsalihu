@@ -16,10 +16,11 @@ I am a self-motivated and passionate Software developer with experience in build
 <!--[![Abdulrazaq's GitHub stats]
 (https://github-readme-stats.vercel.app/api?username=abdrzqsalihu)](https://github.com/abdrzqsalihu/github-readme-stats)-->
 
- ![Abdulrazaq's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdrzqsalihu&theme=cobalt)
 
 ![Abdulrazaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdrzqsalihu&show_icons=true&theme=cobalt)
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abdrzqsalihu&title_color=47ff78&text_color=efefed&icon_color=47ff78&bg_color=0b0b0c&line_height=27">
+
+![Abdulrazaq's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdrzqsalihu&theme=cobalt)
 
 
 
