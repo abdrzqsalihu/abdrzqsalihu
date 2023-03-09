@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 My name is Abdulrazaq Salihu,
-I am a self-motivated and passionate Software developer with experience in building and maintaining responsive websites. Skilled in HTML/CSS, JavaScript, React, Firebase, JQuery PHP and MySQL. I love problem-solving, working within a team, and bouncing ideas off each other to find a solution. I love those exciting moments when a plan comes together or when I finally solve a problem.
+I am a self-motivated and passionate Software developer with experience in building and maintaining responsive websites. Skilled in HTML/CSS, JavaScript, React, Next JS, Firebase, JQuery, PHP and MySQL. I love problem-solving, working within a team, and bouncing ideas off each other to find a solution. I love those exciting moments when a plan comes together or when I finally solve a problem.
 
 
-🔭 I’m currently working on https://coaxmeet.com
-<!-- - 🌱 I’m currently learning Next JS... -->
+🔭 I’m currently working on https://techavenacad.coaxtech.co/
+- 🌱 I’m currently learning TypeScript...
 - 👯 I'll love to collaborate with designers and developers in creating well-optimized and problem-solving apps...
 - 🤔 I’m looking for frontend development roles.
 - 💬 Ask me about anything.
