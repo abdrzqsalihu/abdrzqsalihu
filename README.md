@@ -30,5 +30,6 @@ I am a self-motivated and passionate Software developer with experience in build
 ### You can reach me on
 - [Twitter](https://twitter.com/abdrzqsalihu)
 - [LinkedIn](https://www.linkedin.com/in/abdrzqsalihu/)
+- [Instagram](https://www.instagram.com/abdrzq.salihu/)
 
 Let's build together 🛠🚀 
