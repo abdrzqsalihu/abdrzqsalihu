@@ -11,7 +11,7 @@ I am a self-motivated and passionate Software developer with experience in build
 - 💬 Ask me about anything.
 - 📫 How to reach me: Send a mail to abdrzq.salihu@gmail.com.
 - 😄 Pronouns: He/him.
-- ⚡ Fun fact: I share Tech content on Twitter & Linkedin.
+- ⚡ Fun fact: I share Tech content on Instagram, Twitter & Linkedin.
 
 
 
@@ -30,6 +30,6 @@ I am a self-motivated and passionate Software developer with experience in build
 ### You can reach me on
 - [Twitter](https://twitter.com/abdrzqsalihu)
 - [LinkedIn](https://www.linkedin.com/in/abdrzqsalihu/)
-- [Instagram](https://www.instagram.com/abdrzq.salihu/)
+- [Instagram](https://www.instagram.com/abdrzq.dev/)
 
 Let's build together 🛠🚀 
