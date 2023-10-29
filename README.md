@@ -26,8 +26,6 @@ I am a self-motivated and passionate Software developer with experience building
 <!-- ![Github Stars](https://github-readme-stats.vercel.app/api?username=abdrzqsalihu&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=cobalt) -->
 
 
-- 📝 To give back to the community I publish technical developer-focused content on Hashnode and Dev.to.
-
 ### You can reach me on
 - [Twitter](https://twitter.com/abdrzqsalihu)
 - [Instagram](https://www.instagram.com/abdrzq.dev/)
