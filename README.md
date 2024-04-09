@@ -9,7 +9,7 @@ I am a self-motivated and passionate Software developer with experience building
 - 👯 I'd love to collaborate with designers and developers to create well-optimized and problem-solving apps...
 - 🤔 I’m looking for frontend development roles.
 - 💬 Ask me about anything.
-- 📫 How to reach me: Send a mail to abdrzq.salihu@gmail.com
+- 📫 How to reach me: Send a mail to abdrzq.salihu@gmail.com.
 - ⚡ Fun fact: I share Tech content on Instagram, Twitter & Linkedin.
 
 
